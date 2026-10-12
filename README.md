@@ -9,9 +9,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-Canvas-ff6b4a?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Vanilla-JavaScript-ffc845?style=flat-square&logo=javascript&logoColor=black)
 ![Single File](https://img.shields.io/badge/Single%20File-keine%20Abhängigkeiten-3ee6d0?style=flat-square)
-![Lizenz](https://img.shields.io/badge/Lizenz-Proprietär-4a5278?style=flat-square)
+[![Jetzt spielen](https://img.shields.io/badge/▶%20Jetzt%20spielen-GitHub%20Pages-ff6b4a?style=flat-square)](https://mychecknix.github.io/bounce-rush/)
 
-<img src="docs/preview.gif" width="800" alt="Gameplay-Vorschau von Bounce Rush">
+<a href="https://mychecknix.github.io/bounce-rush/"><img src="docs/preview.gif" width="800" alt="Gameplay-Vorschau von Bounce Rush"></a>
+
+### [▶ Direkt im Browser spielen](https://mychecknix.github.io/bounce-rush/)
 
 </div>
 
@@ -30,7 +32,10 @@ Bounce Rush ist ein komplettes Spiel in **einer einzigen HTML-Datei** – ohne B
 
 ## Schnellstart
 
-1. [`index.html` herunterladen](../../raw/main/index.html) (oder das Repo klonen)
+**Online:** [mychecknix.github.io/bounce-rush](https://mychecknix.github.io/bounce-rush/) öffnen und loslegen.
+
+**Offline:**
+1. [`index.html` herunterladen](https://raw.githubusercontent.com/mychecknix/bounce-rush/main/index.html) (Rechtsklick → „Speichern unter …“)
 2. Datei im Browser öffnen – fertig.
 
 Keine Installation, kein Server, keine Abhängigkeiten.
@@ -129,12 +134,9 @@ bounce-rush/
 │   ├── logo.svg
 │   ├── preview.gif
 │   └── screenshots/
-├── LICENSE
 └── README.md
 ```
 
 ## Lizenz
 
-**Proprietär – alle Rechte vorbehalten.** © 2026 Michael Grüb.
-
-Der Quellcode und alle Inhalte sind Eigentum des Autors. Jede Nutzung, Vervielfältigung, Veränderung oder Weitergabe ohne ausdrückliche schriftliche Genehmigung ist untersagt. Details siehe [LICENSE](LICENSE).
+© 2026 Michael Grüb. Eine Lizenz wird noch festgelegt – bis dahin gilt: **alle Rechte vorbehalten**.
