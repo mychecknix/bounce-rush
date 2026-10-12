@@ -30,16 +30,10 @@ Bounce Rush ist ein komplettes Spiel in **einer einzigen HTML-Datei** – ohne B
 
 ## Schnellstart
 
-```bash
-git clone git@github.com:mychecknix/bounce-rush.git
-cd bounce-rush
-# einfach öffnen …
-open index.html            # macOS
-xdg-open index.html        # Linux
-start index.html           # Windows
-# … oder lokal ausliefern
-python3 -m http.server 8000   # → http://localhost:8000
-```
+1. [`index.html` herunterladen](../../raw/main/index.html) (oder das Repo klonen)
+2. Datei im Browser öffnen – fertig.
+
+Keine Installation, kein Server, keine Abhängigkeiten.
 
 ## Spielanleitung
 
